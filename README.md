@@ -3,7 +3,8 @@
 
 # important!
 Run `ivanscript-submodules.bash` to import submodules.
-Or do yourself: ```
+Or do yourself: 
+```bash
 git submodule init
 git submodule update
 ```
