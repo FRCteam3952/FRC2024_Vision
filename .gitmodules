@@ -1,0 +1,3 @@
+[submodule "apriltag/localizer"]
+	path = apriltag/localizer
+	url = https://github.com/siiverfish/localizer
